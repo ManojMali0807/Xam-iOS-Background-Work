@@ -1,0 +1,16 @@
+/Users/punemobility/Projects/BackgroundWorkDemo/BackgroundWorkDemo/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/punemobility/Projects/BackgroundWorkDemo/BackgroundWorkDemo/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/punemobility/Projects/BackgroundWorkDemo/BackgroundWorkDemo/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.4/actool/_PartialAppManifest.items
+/Users/punemobility/Projects/BackgroundWorkDemo/BackgroundWorkDemo/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.4/actool/_BundleResourceWithLogicalName.items
+/Users/punemobility/Projects/BackgroundWorkDemo/BackgroundWorkDemo/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.4/coremlc/_PartialAppManifest.items
+/Users/punemobility/Projects/BackgroundWorkDemo/BackgroundWorkDemo/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/punemobility/Projects/BackgroundWorkDemo/BackgroundWorkDemo/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-11.4/optimized/
+/Users/punemobility/Projects/BackgroundWorkDemo/BackgroundWorkDemo/bin/iPhoneSimulator/Debug/BackgroundWorkDemo.pdb
+/Users/punemobility/Projects/BackgroundWorkDemo/BackgroundWorkDemo/bin/iPhoneSimulator/Debug/BackgroundWorkDemo.exe
+/Users/punemobility/Projects/BackgroundWorkDemo/BackgroundWorkDemo/obj/iPhoneSimulator/Debug/BackgroundWorkDemo.exe
+/Users/punemobility/Projects/BackgroundWorkDemo/BackgroundWorkDemo/obj/iPhoneSimulator/Debug/BackgroundWorkDemo.pdb
+/Users/punemobility/Projects/BackgroundWorkDemo/BackgroundWorkDemo/bin/iPhoneSimulator/Debug/SQLitePCLRaw.core.dll
+/Users/punemobility/Projects/BackgroundWorkDemo/BackgroundWorkDemo/bin/iPhoneSimulator/Debug/SQLitePCLRaw.provider.sqlite3.dll
+/Users/punemobility/Projects/BackgroundWorkDemo/BackgroundWorkDemo/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/punemobility/Projects/BackgroundWorkDemo/BackgroundWorkDemo/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/punemobility/Projects/BackgroundWorkDemo/BackgroundWorkDemo/bin/iPhoneSimulator/Debug/SQLite-net.dll

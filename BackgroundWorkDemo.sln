@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgroundWorkDemo", "BackgroundWorkDemo\BackgroundWorkDemo.csproj", "{2F9DB604-E2BB-49FF-B81A-ABAB16CDBD5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F9DB604-E2BB-49FF-B81A-ABAB16CDBD5C}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{2F9DB604-E2BB-49FF-B81A-ABAB16CDBD5C}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{2F9DB604-E2BB-49FF-B81A-ABAB16CDBD5C}.Release|iPhone.ActiveCfg = Release|iPhone
+		{2F9DB604-E2BB-49FF-B81A-ABAB16CDBD5C}.Release|iPhone.Build.0 = Release|iPhone
+		{2F9DB604-E2BB-49FF-B81A-ABAB16CDBD5C}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{2F9DB604-E2BB-49FF-B81A-ABAB16CDBD5C}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{2F9DB604-E2BB-49FF-B81A-ABAB16CDBD5C}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{2F9DB604-E2BB-49FF-B81A-ABAB16CDBD5C}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal

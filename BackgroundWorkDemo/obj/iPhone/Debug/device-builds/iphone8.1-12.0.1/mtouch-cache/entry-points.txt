@@ -1,0 +1,25 @@
+Function=xamarin_timezone_get_data
+	/Users/punemobility/Projects/Demo/BackgroundWorkDemo/BackgroundWorkDemo/obj/iPhone/Debug/device-builds/iphone8.1-12.0.1/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/punemobility/Projects/Demo/BackgroundWorkDemo/BackgroundWorkDemo/obj/iPhone/Debug/device-builds/iphone8.1-12.0.1/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/punemobility/Projects/Demo/BackgroundWorkDemo/BackgroundWorkDemo/obj/iPhone/Debug/device-builds/iphone8.1-12.0.1/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/punemobility/Projects/Demo/BackgroundWorkDemo/BackgroundWorkDemo/obj/iPhone/Debug/device-builds/iphone8.1-12.0.1/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/punemobility/Projects/Demo/BackgroundWorkDemo/BackgroundWorkDemo/obj/iPhone/Debug/device-builds/iphone8.1-12.0.1/mtouch-cache/Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/punemobility/Projects/Demo/BackgroundWorkDemo/BackgroundWorkDemo/obj/iPhone/Debug/device-builds/iphone8.1-12.0.1/mtouch-cache/Link/Xamarin.iOS.dll
+Function=CreateZStream
+	/Users/punemobility/Projects/Demo/BackgroundWorkDemo/BackgroundWorkDemo/obj/iPhone/Debug/device-builds/iphone8.1-12.0.1/mtouch-cache/Link/System.dll
+Function=CloseZStream
+	/Users/punemobility/Projects/Demo/BackgroundWorkDemo/BackgroundWorkDemo/obj/iPhone/Debug/device-builds/iphone8.1-12.0.1/mtouch-cache/Link/System.dll
+Function=Flush
+	/Users/punemobility/Projects/Demo/BackgroundWorkDemo/BackgroundWorkDemo/obj/iPhone/Debug/device-builds/iphone8.1-12.0.1/mtouch-cache/Link/System.dll
+Function=ReadZStream
+	/Users/punemobility/Projects/Demo/BackgroundWorkDemo/BackgroundWorkDemo/obj/iPhone/Debug/device-builds/iphone8.1-12.0.1/mtouch-cache/Link/System.dll
+Function=WriteZStream
+	/Users/punemobility/Projects/Demo/BackgroundWorkDemo/BackgroundWorkDemo/obj/iPhone/Debug/device-builds/iphone8.1-12.0.1/mtouch-cache/Link/System.dll
+Function=xamarin_start_wwan
+	/Users/punemobility/Projects/Demo/BackgroundWorkDemo/BackgroundWorkDemo/obj/iPhone/Debug/device-builds/iphone8.1-12.0.1/mtouch-cache/Link/System.dll
+Function=mono_pmip

@@ -1,0 +1,16 @@
+/Users/punemobility/Projects/BackgroundWorkDemo/BackgroundWorkDemo/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/punemobility/Projects/BackgroundWorkDemo/BackgroundWorkDemo/obj/iPhone/Debug/device-builds/iphone8.1-12.0.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/punemobility/Projects/BackgroundWorkDemo/BackgroundWorkDemo/obj/iPhone/Debug/device-builds/iphone8.1-12.0.1/actool/_PartialAppManifest.items
+/Users/punemobility/Projects/BackgroundWorkDemo/BackgroundWorkDemo/obj/iPhone/Debug/device-builds/iphone8.1-12.0.1/actool/_BundleResourceWithLogicalName.items
+/Users/punemobility/Projects/BackgroundWorkDemo/BackgroundWorkDemo/obj/iPhone/Debug/device-builds/iphone8.1-12.0.1/coremlc/_PartialAppManifest.items
+/Users/punemobility/Projects/BackgroundWorkDemo/BackgroundWorkDemo/obj/iPhone/Debug/device-builds/iphone8.1-12.0.1/coremlc/_BundleResourceWithLogicalName.items
+/Users/punemobility/Projects/BackgroundWorkDemo/BackgroundWorkDemo/obj/iPhone/Debug/device-builds/iphone8.1-12.0.1/optimized/
+/Users/punemobility/Projects/BackgroundWorkDemo/BackgroundWorkDemo/bin/iPhone/Debug/BackgroundWorkDemo.pdb
+/Users/punemobility/Projects/BackgroundWorkDemo/BackgroundWorkDemo/bin/iPhone/Debug/BackgroundWorkDemo.exe
+/Users/punemobility/Projects/BackgroundWorkDemo/BackgroundWorkDemo/obj/iPhone/Debug/BackgroundWorkDemo.exe
+/Users/punemobility/Projects/BackgroundWorkDemo/BackgroundWorkDemo/obj/iPhone/Debug/BackgroundWorkDemo.pdb
+/Users/punemobility/Projects/BackgroundWorkDemo/BackgroundWorkDemo/bin/iPhone/Debug/SQLitePCLRaw.core.dll
+/Users/punemobility/Projects/BackgroundWorkDemo/BackgroundWorkDemo/bin/iPhone/Debug/SQLitePCLRaw.provider.sqlite3.dll
+/Users/punemobility/Projects/BackgroundWorkDemo/BackgroundWorkDemo/bin/iPhone/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/punemobility/Projects/BackgroundWorkDemo/BackgroundWorkDemo/bin/iPhone/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/punemobility/Projects/BackgroundWorkDemo/BackgroundWorkDemo/bin/iPhone/Debug/SQLite-net.dll
