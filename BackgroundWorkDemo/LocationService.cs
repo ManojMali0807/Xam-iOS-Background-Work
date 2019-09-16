@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Net.Http;
 using System.Threading.Tasks;
 using CoreLocation;
@@ -95,7 +95,7 @@ namespace BackgroundWorkDemo
             string strServiceResult = string.Empty;
             try
             {
-                Uri uri = new Uri(@"https://globalmobilesg-dev.otiselevator.biz/MReportWebApi/api/MntReport/currentserverdatetime");
+                Uri uri = new Uri(@"WebServiceTobeAccessed");
 
                 using (HttpClient client = new HttpClient())
                 {
